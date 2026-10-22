@@ -54,6 +54,14 @@ when a new version is out.
 The mod replaces the dynasty tuning file, so it can't be combined with other mods that
 change dynasty tuning.
 
+## Compatibility
+
+* **Fang's recruiting tool: compatible, and recommended.** DART is built to run alongside it.
+* **DRI+: not compatible.**
+* **Playoff customization mod: not compatible yet.** Support is coming soon.
+* **Other mods that change dynasty tuning: not compatible.** The DART mod replaces the
+  dynasty tuning file.
+
 ## How is this different from MyDynasty Auto Recruiting?
 
 First, MyDynasty is great. I've loved using it, and DART exists because of how much I
